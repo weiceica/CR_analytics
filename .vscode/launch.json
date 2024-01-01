@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/weiceica/Desktop/ClashRoyale/CR_analytics/cleanse_data",
+      "program": "/Users/weiceica/Desktop/ClashRoyale/CR_analytics/cleanse_data/build/Debug/outDebug"
+    }
+  ]
+}
